@@ -6,3 +6,4 @@ The project demonstrates GitHub integration with Jenkins and a seven-stage CI/CD
 Jenkins automatic build trigger test.
 Second automatic Jenkins trigger test.
 Final Jenkins automatic trigger test.
+Automatic polling verified.
