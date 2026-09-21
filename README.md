@@ -7,3 +7,4 @@ Jenkins automatic build trigger test.
 Second automatic Jenkins trigger test.
 Final Jenkins automatic trigger test.
 Automatic polling verified.
+Automatic Jenkins trigger demonstration.
